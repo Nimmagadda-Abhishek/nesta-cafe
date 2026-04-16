@@ -18,7 +18,8 @@ const About = () => {
         <div className="about-visual">
           <div className="about-offset">
             <p className="about-quote">"We didn't open a café. We opened a place we wanted to sit in every single day."</p>
-            <p className="about-quote-attr">— Nesta founder</p>
+            <p className="about-quote-attr">— Nikhil Kukkadapu (Nesta founder)</p>
+            <p className="about-quote-attr"></p>
           </div>
         </div>
       </div>
