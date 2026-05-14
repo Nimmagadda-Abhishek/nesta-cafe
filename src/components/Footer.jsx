@@ -28,6 +28,7 @@ const Footer = () => {
       </footer>
       <div className="footer-bottom">
         <p>© 2026 Nesta Café. All rights reserved.</p>
+        <p>FSSAI License: {contactData.fssai}</p>
       </div>
 
       <style jsx="true">{`

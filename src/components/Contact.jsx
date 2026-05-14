@@ -36,6 +36,15 @@ const Contact = () => {
                 <p className="contact-item-val">{contactData.email}</p>
               </div>
             </div>
+            <div className="contact-item">
+              <div className="contact-item-icon">
+                <svg viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" /></svg>
+              </div>
+              <div className="contact-item-body">
+                <p className="contact-item-label">FSSAI License</p>
+                <p className="contact-item-val">{contactData.fssai}</p>
+              </div>
+            </div>
           </div>
           <div className="contact-hours">
             <p className="contact-hours-title">Opening Hours</p>

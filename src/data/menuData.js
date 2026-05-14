@@ -238,5 +238,6 @@ export const contactData = {
   phone: "+91 91 77 15 7744",
   email: "Nestacafehyd@gmail.com",
   instagram: "nestacafehyd",
-  address: "Beside Venkatapuram Kaman, Chowdariguda Circle, Ghatkesar Mandal, Hyderabad."
+  address: "Beside Venkatapuram Kaman, Chowdariguda Circle, Ghatkesar Mandal, Hyderabad.",
+  fssai: "13624034000715"
 };
